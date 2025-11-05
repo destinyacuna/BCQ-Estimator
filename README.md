@@ -1,0 +1,1 @@
+The BCQ Estimator tool helps landscaping teams quote jobs faster and more accurately, turning field estimates into profitable pricing for projects. The tool can be optimized for any companies standardized business rules.
